@@ -50,7 +50,7 @@ function UserData() {
             placeholder="Search here by name"
             className="input-wrapper-searh"
           />
-          <IoSearch />
+
         </div>
 
         {loading ? (
