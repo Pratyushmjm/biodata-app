@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { IoSearch } from "react-icons/io5";
 import UserList from "./UserList";
 
 const URL = "https://jsonplaceholder.typicode.com/users";
